@@ -58,6 +58,10 @@
         "all"
       ]
     },
+    "obscura": {
+      "command": "obscura",
+      "args": ["mcp"]
+    },
     "playwright": {
       "command": "@playwright/mcp"
     },
